@@ -1,0 +1,6 @@
+Name
+DOB
+DOJ
+Contact
+Address
+Email-Id
